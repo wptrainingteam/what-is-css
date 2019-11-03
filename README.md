@@ -1,10 +1,6 @@
-# Repo Structure and Lesson Plan Template
-
-> <span style="color:red">Please remove all blockquote comments such as this before publishing.</span>
-
 ## Description
 
-> In this lesson you will learn what is CSS (Cascading Style Sheets) and how it interacts with with the HTML elements of your website and Javascript. Learn how to use CSS to style those HTML elements and the 'cascading effect'.
+In this lesson you will learn what is CSS (Cascading Style Sheets) and how it interacts with with the HTML elements of your website and Javascript. Learn how to use CSS to style those HTML elements and the 'cascading effect'.
 
 ## Objectives
 
@@ -15,8 +11,6 @@ After completing this lesson, participants will be able to:
 * Illustrate how to use basic CSS to modify the HTML elements of your site (text, backgrounds)
 * Define what is a CSS class and id and show how it can be applied to the HTML elements of your site
 * Explain the 'cascading' effect and how you can arrange your CSS to reflect this
-
-> It’s required that you include a bulleted list of objective(s) for each lesson plan. Objectives should be worded as actions that the participant can do once they’ve finished. See [Bloom's Taxonomy of Action Verbs](http://www.fresnostate.edu/academics/oie/documents/assesments/Blooms%20Level.pdf) (PDF) as a reference. Avoid using words like "know," "understand," "be introduced to," etc. There should be one assement item for each objective (see below).
 
 ## Target Audience
 
@@ -67,26 +61,12 @@ Participants will get the most from this lesson if they have familiarity with:
 * Basic understanding of HTML
 * Basic knowledge of how to use a Text Editor
 
-> _For example:_
->
-> *   Experience with HTML and CSS
-> *   Completed the Basic WordPress Concepts lesson
-
 ## Readiness Questions
 
 * Do you have a basic knowledge of HTML?
 * Have you got access to and do you know how to use a Text Editor?
 
-> A list of questions for participants to see if they have the background and skills necessary to learn and understand the lesson.
->
-> _For example:_
->
-> *   Do you want to makes changes to your theme yourself?
-> *   Do you know how to write CSS?
-
 ## Slides
-
-> Change the `/repo-name/` in the link to match the URL name of this repo.
 
 *   [Slides](https://wptrainingteam.github.io/lesson-plans/repo-name/slides/) (files included in this repo)
 
@@ -96,26 +76,10 @@ Participants will get the most from this lesson if they have familiarity with:
 * Text Editor/W3C CSS Validator
 * Online Picker Tool
 
-> A list of files, resources, equipment, or other materials the presenter will need for the lesson.
->
-> _For example:_
->
-> *   A local install of WordPress
-> *   The files for the TwentySixteen theme
-
 ## Notes for the Presenter
 
 * The lesson plan is meant to to be an introductory to CSS through demonstrations, exercises and tutorials. It is not a detailed course on CSS but an introduction to the topic for users who have a basic understanding of HTML and want to use CSS to style basic HTML elements.
 * Users must be able to answer ‘Yes’ to the first readiness question. If they answer ‘No’ to the second question then they can be directed to use the W3C CSS validator.
-
-> A list of any handy tips or other information for the presenter.
->
-> _For example:_
->
-> *  Participants may need to download the TwentySixteen theme before beginning
-> *  What to do if there’s no projector or internet available
-> *  What to do if a participant doesn’t have the necessary set up
-> *  How to handle different opinions about the topic
 
 ## Lesson Outline
 
@@ -128,14 +92,6 @@ Participants will get the most from this lesson if they have familiarity with:
 * Explain the cascading effect
 * Try to then take and complete a quiz
 * Finish with additional resources/reading material.
-
-> The plan for the lesson. Outline form works well.
->
-> _For example:_
->
-> * Talk about what a theme is
-> * Demonstrate how to install and activate a theme
-> * Practice exercises to have participants find and install a theme on their own site
 
 ## Exercises
 
@@ -169,9 +125,6 @@ Short description of what the exercise does and what skills or knowledge it rein
 Short description of what the exercise does and what skills or knowledge it reinforces.
 
 *   Change the colour of of the 'H2' elements using an 'id'
-
-
-> These are short or specific activities that help participants practice certain components of the lesson. They should not be fully scripted exercises, but rather something that participants could do on their own. For example, you can create an exercise based on one step of the Example Lesson.
 
 ## Assessment
 
@@ -222,9 +175,6 @@ There should be one assement item (or more) for each objective listed above. Eac
 
 **Answer:** 3\. Correct answer
 
-
-> A few questions to ask participants to evaluate their retention of the material presented. They should be a measure of whether the objectives were reached. Consider having a question for each objective.
-
 ## Additional Resources
 
 * Mozilla Developer Network - https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics
@@ -232,21 +182,9 @@ There should be one assement item (or more) for each objective listed above. Eac
 * CSS Tricks - https://css-tricks.com
 * Codrops CSS Reference - https://tympanus.net/codrops/css_reference/
 
-
-> An optional section which can contain a list of resources that the presenter can use to get more information on the topic.
->
-> _For example:_
->
-> * Link to information on the Codex
-> * Theme Review Team's Handbook
-
 ## Example Lesson
 
-> An example of how the lesson plan can be implemented. Written in script form as one possible way an presenter might use this lesson plan at an event, with screenshots and instructions if necessary.
-
 ### Section Heading for Example Lesson
-
-> You will likely need to break the Example Lesson down into multiple sections.
 
 ### Lesson Wrap Up
 
