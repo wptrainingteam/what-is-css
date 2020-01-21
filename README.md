@@ -4,7 +4,7 @@
 
 ## Description
 
-> In this lesson you will learn what is CSS (Cascading Style Sheets) and how it interacts with with the HTML elements of your website and Javascript. Learn how to use CSS to style those HTML elements and the 'cascading effect'.
+> In this lesson you will learn what is CSS (Cascading Style Sheets) and how it interacts with the HTML elements of your website and Javascript. Learn how to use CSS to style those HTML elements and the 'cascading effect'.
 
 ## Objectives
 
